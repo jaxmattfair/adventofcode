@@ -1,3 +1,6 @@
+# DS STORE
+.DS_Store
+
 # input files for testing
 input.txt
 test.txt
